@@ -7,6 +7,7 @@
     com.unity.2d.tilemap: 1.0.0
     com.unity.ide.visualstudio: 2.0.16
     com.unity.inputsystem: 1.4.1
+    com.unity.shadergraph": 12.1.7
     com.unity.textmeshpro: 3.0.6
     com.unity.ugui: 1.0.0
     com.unity.modules.animation: 1.0.0
