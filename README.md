@@ -1,4 +1,4 @@
-# 2D LeanUnity Project Template
+# Unity Project Template: 2D Lean 
     Project template for Unity: 2D Lean
 
 ## Packages
